@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDateLeagueUI" type="id" />
+    <item name="strHomeTeam" type="id" />
+    <item name="score" type="id" />
+    <item name="strAwayTeam" type="id" />
+    <item name="recycler_view_team" type="id" />
+    <item name="swipe_refresh_layout_team" type="id" />
+    <item name="progress_bar_rc_team" type="id" />
+    <item name="progress_bar_detail" type="id" />
+    <item name="date_events_detail" type="id" />
+    <item name="ll_score_detail" type="id" />
+    <item name="image_home_detail" type="id" />
+    <item name="tv_image_home_detail" type="id" />
+    <item name="score_detail" type="id" />
+    <item name="image_away_detail" type="id" />
+    <item name="tv_image_away_detail" type="id" />
+    <item name="view_line_goals" type="id" />
+    <item name="ll_goals_detail" type="id" />
+    <item name="home_goal_details" type="id" />
+    <item name="away_goal_details" type="id" />
+    <item name="ll_shots" type="id" />
+    <item name="home_shots_detail" type="id" />
+    <item name="away_shots_detail" type="id" />
+    <item name="view_line_up_goals" type="id" />
+    <item name="line_ups" type="id" />
+    <item name="ll_goal_keeper" type="id" />
+    <item name="home_line_up_goal_keeper" type="id" />
+    <item name="away_line_up_goal_keeper" type="id" />
+    <item name="ll_defense" type="id" />
+    <item name="home_line_up_defense" type="id" />
+    <item name="away_line_up_defense" type="id" />
+    <item name="ll_midd_field" type="id" />
+    <item name="home_line_up_midfield" type="id" />
+    <item name="away_lineup_midfield" type="id" />
+    <item name="ll_forward" type="id" />
+    <item name="home_lineup_forward" type="id" />
+    <item name="away_lineup_forward" type="id" />
+    <item name="ll_substitutes" type="id" />
+    <item name="home_lineup_substitutes" type="id" />
+    <item name="away_lineup_substitutes" type="id" />
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="caption">NAME TEAM</string>
+    <string name="score">3 vs 0</string>
+    <string name="dateEvents">Sat, 22 Sept 2018</string>
+    <string name="data">Lorem ip sum; Lorem ip sum; Lorem ip sum;</string>
+    <string name="goals">Goals</string>
+    <string name="shoot">4</string>
+    <string name="shoots">Shoots</string>
+    <string name="lineUps">LINEUPS</string>
+    <string name="goalKeeper">Goal Keeper</string>
+    <string name="defense">Defense</string>
+    <string name="forward">Forward</string>
+    <string name="substitutes">Subsitutes</string>
+    <string name="midfield">MidField</string>
+
+</resources>

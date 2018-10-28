@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvDateLeagueUI" type="id" />
+    <item name="strHomeTeam" type="id" />
+    <item name="strAwayTeam" type="id" />
+    <item name="score" type="id" />
+    <item name="detailDateEvents" type="id" />
+    <item name="imageHome" type="id" />
+    <item name="detailScore" type="id" />
+    <item name="viewLineGoals" type="id" />
+    <item name="captionImageHome" type="id" />
+    <item name="imageAway" type="id" />
+    <item name="captionImageAway" type="id" />
+    <item name="llDetailScore" type="id" />
+    <item name="llDetailGoals" type="id" />
+    <item name="viewLineUpGoals" type="id" />
+    <item name="llShots" type="id" />
+    <item name="lineUps" type="id" />
+    <item name="llGoalKeeper" type="id" />
+    <item name="llDefense" type="id" />
+    <item name="llMiddField" type="id" />
+    <item name="llForward" type="id" />
+    <item name="llSubstitutes" type="id" />
+    <item name="progressBar" type="id" />
+    <item name="homeGoalDetails" type="id" />
+    <item name="awayGoalDetails" type="id" />
+    <item name="homeShots" type="id" />
+    <item name="awayShots" type="id" />
+    <item name="homeLineupGoalkeeper" type="id" />
+    <item name="awayLineupGoalkeeper" type="id" />
+    <item name="homeLineupDefense" type="id" />
+    <item name="awayLineupDefense" type="id" />
+    <item name="homeLineupMidfield" type="id" />
+    <item name="awayLineupMidfield" type="id" />
+    <item name="homeLineupForward" type="id" />
+    <item name="awayLineupForward" type="id" />
+    <item name="homeLineupSubstitutes" type="id" />
+    <item name="awayLineupSubstitutes" type="id" />
+</resources>

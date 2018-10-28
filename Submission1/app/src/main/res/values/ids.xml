@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="img_logo" type="id" />
+    <item name="tv_name" type="id"/>
+    <item name="rv_ball" type="id" />
+    <item name="img_detail" type="id" />
+</resources>
